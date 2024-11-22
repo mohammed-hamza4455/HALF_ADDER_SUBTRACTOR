@@ -1,4 +1,8 @@
-# HALF_ADDER_SUBTRACTOR
+# EXP3: HALF ADDER AND SUBTRACTOR
+## NAME:MOHAMMED HAMZA M
+## REGISTRATION NUMBER:24900511
+
+
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
