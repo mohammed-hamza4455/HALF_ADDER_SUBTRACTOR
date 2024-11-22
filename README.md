@@ -38,8 +38,8 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
-`![HALF ADDER GATE](https://github.com/user-attachments/assets/b942e5b7-84b2-4230-b4fc-321abf448374)
-![HALF SUBTRACTOR GATE](https://github.com/user-attachments/assets/e3ab569b-a4b3-4f38-868d-f41b6ab823d0)
+![HALF SUBTRACTOR TRUTH TABLE](https://github.com/user-attachments/assets/04c27b96-9f2c-4cee-a34c-ebad84ba0890)
+![HALF ADDER TRUTH TABLE](https://github.com/user-attachments/assets/a7bb5d10-a3eb-45e9-a295-283eb468b7cf)
 
 **Procedure**
 
@@ -63,6 +63,9 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![HALF SUBTRACTOR GATE](https://github.com/user-attachments/assets/467bfe08-b552-43a0-97d3-2afb42fcdca8)
+![HALF ADDER GATE](https://github.com/user-attachments/assets/a31a5940-a8d0-4d7e-b193-512c53b8357d)
+
 
 **Output/TIMING Waveform**
 ![HALF SUBTRACTOR WAVEFORM](https://github.com/user-attachments/assets/b474ec30-f051-4c7c-8af0-3274e2e4e318)
